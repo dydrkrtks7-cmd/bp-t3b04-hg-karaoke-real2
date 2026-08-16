@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-nightlife-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://sangsu-nightlife-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
